@@ -17,7 +17,7 @@ Phone: 860-316-7617 E-Mail: chris@uconn.edu Web: http://www.linkedin.com/in/chri
 - **Microsoft SQL:** Server versions 2000-2018, SQL Server Clustering.
 - **HP Networking:** ProCurve Switches and MSM Wireless solutions.
 - **Cisco Networking:** Cisco UCS w/6200 Series FIs, Cisco IOS routing and ASA firewall configuration.
-- **Windows Networking:** Server versions NT3.51-2018, Active Directory, DFS, DNS, WINS and Group Policies.
+- **Windows Networking:** Server versions NT3.51-2019, Active Directory, DFS, DNS, WINS and Group Policies.
 - **Linux:** OpenLDAP, NIS and AD integration, Extensive experience with Red Hat & Debian based distributions.
 - **Apple:** Extensive Experience with Appletalk, OS9, OSX and Windows integration with Apple products. Additional experience with Linux Firewalls, Network Monitoring or Windows Server or workstation replacement.
 - **IP Networking:** IPv4 subnetting, routing (RIP, OSPF and BGPv4) and VLAN setup and configuration.
