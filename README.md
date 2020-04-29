@@ -1,9 +1,11 @@
 # Christopher J. Tarricone
 
-**Address:** 194 Hebron Rd, Bolton, CT, 06043
-**Phone:** 860-316-7617
-**E-Mail:** chris@uconn.edu
-**Web:** http://www.linkedin.com/in/christarricone
+|   |   |
+|---|---|
+|**Address:** | 194 Hebron Rd, Bolton, CT, 06043 |
+| **Phone:** | 860-316-7617 |
+| **E-Mail:** | chris@uconn.edu |
+| **Web:** | http://www.linkedin.com/in/christarricone |
 
 ## Skills
 
